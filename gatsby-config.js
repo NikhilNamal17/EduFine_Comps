@@ -15,7 +15,7 @@ module.exports = {
       }
     ],
     sidebarConfig: {
-      forcedNavOrder: ["/Distributed Systems Contents", " / Computers ", " / EXTC"],
+      forcedNavOrder: ["/DC", "/HMI"],
       ignoreIndex: false
     }
   },
