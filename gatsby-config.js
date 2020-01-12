@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `EduLearn`,
+    title: `EduFine`,
     name: `Nikhil Namal`,
-    siteUrl: `https://gatsby-theme-document.netlify.com`,
+    siteUrl: `https://edufine-comps.netlify.com/`,
     description: `This is my description that will be used in the meta tags and important for search results`,
     social: [
       {
